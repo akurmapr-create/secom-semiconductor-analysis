@@ -1,0 +1,5 @@
+.venv/
+data/
+secom_analysis.ipynb
+.ipynb_checkpoints/
+.DS_Store
